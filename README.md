@@ -17,11 +17,3 @@ A lightweight Information Retrieval System built on Cranfield data, implementing
 4) Query Processing: Preprocessing applied to query terms for consistency.
 5) Information Retrieval: Information Retrieval using all the 3 models respectively.
 6) Model Evaluation: Performance assessed using Text REtrieval Conference (TREC) standards.
-
-
-
-
-Information Retrieval System on Cranfield data using Best Match (BM25) Model, Vector Space Model and a Language Model (Jelinek Mercer Smoothing).
-Pre-processing steps like stop words removal, stemming, special character removal, number removal, HTML tags removal, tokenization and lemmetization for both corpus text and query terms
-Built inverted index for the corpus text/ documents
-Evaluation of each model using Text REtrieval Conference(TREC).

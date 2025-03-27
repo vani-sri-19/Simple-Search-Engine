@@ -1,5 +1,5 @@
 # Simple-Search-Engine
-A lightweight Information Retrieval System built on Cranfield data, implementing three retrieval models:  
+A lightweight text based Information Retrieval System built on Cranfield data, implementing three retrieval models:  
 - Best Match (BM25) Model  
 - Vector Space Model
 - Language Model (Jelinek-Mercer Smoothing)  
